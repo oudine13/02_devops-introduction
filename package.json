@@ -1,0 +1,24 @@
+{
+  "name": "02_devops-introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oudine13/02_devops-introduction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oudine13/02_devops-introduction/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "homepage": "https://github.com/oudine13/02_devops-introduction#readme"
+}
